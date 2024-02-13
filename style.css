@@ -1,0 +1,37 @@
+
+h1{
+    color: #8991bd;
+    text-align: center;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 40px;
+}
+h2{
+    color: #f9b17a;
+    font-family: "DM Serif Display", serif;
+    font-size: large;
+    font-weight: bold;
+}
+a{ 
+    color:#FFFFFF;
+    font-family: "DM Serif Display", serif;
+    font-weight: initial;
+    
+}
+.a{ 
+    color: #494e6d;  
+    
+}
+html{ 
+    background-color:#2D3250 ;
+}
+li{
+    color: #f9b17a;
+    font-family: "DM Serif Display", serif;
+    
+    
+}
+hr {
+    border-top: 2px solid #f9b17a;
+  }

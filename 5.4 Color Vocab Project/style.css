@@ -1,0 +1,48 @@
+html{
+    background-color: #fee5e5;
+}
+h1{
+    color:black;
+    text-align: center;
+    font-family: "Space Mono", monospace;
+  font-weight: bold;
+  font-style: italic;
+}
+.h2{
+    text-align: center;
+    color: black;
+    font-family: "Space Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+h2{
+    text-align: center;
+    font-family: "Space Mono", monospace;
+  font-weight: 500;
+  font-style: normal;
+}
+#red{
+    color: red;
+}
+#blue{
+    color: blue;
+}
+#green{
+    color: green;
+}
+#orange{
+    color: orange;
+}
+#yellow{
+    color: yellow;
+}
+.color-title{
+    font-weight: normal;
+}
+img{ 
+    height: 200px;;
+    width: 200px;
+        display: block; 
+        margin: auto;
+    }
+
